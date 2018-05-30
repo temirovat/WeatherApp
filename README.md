@@ -8,6 +8,7 @@ If you want to know about the weather in different countries/cities just tap on 
 This app uses a few APIs and libraries such as:
 1) Dark Sky API
 2) CoreLocation
+
 ![](https://github.com/temirovat/WeatherApp/blob/master/Weather.gif?raw=true)
 
 # Development
